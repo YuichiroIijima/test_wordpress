@@ -37,6 +37,7 @@
         endif;
       ?>
     </div>
+    <?php comments_template(); ?>
   </div>
   <?php endwhile; ?>
 </main>
